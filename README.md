@@ -1,5 +1,5 @@
-## Backend Server for chat app
-[chat api](https://github.com/Ryan-08/chat-backend)
+## Simple chat application using next.js and integration api node express mongodb
+### this link to [chat api](https://github.com/Ryan-08/chat-backend)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
